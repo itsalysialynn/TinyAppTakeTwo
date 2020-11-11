@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/itsalysialynn/TinyAppTakeTwo/issues"
   },
-  "homepage": "https://github.com/itsalysialynn/TinyAppTakeTwo#readme"
+  "homepage": "https://github.com/itsalysialynn/TinyAppTakeTwo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }

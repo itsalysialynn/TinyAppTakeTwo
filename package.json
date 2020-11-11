@@ -1,0 +1,20 @@
+{
+  "name": "TinyAppTakeTwo",
+  "version": "1.0.0",
+  "description": "Revisiting node and express three years later with TinyApp take two!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsalysialynn/TinyAppTakeTwo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsalysialynn/TinyAppTakeTwo/issues"
+  },
+  "homepage": "https://github.com/itsalysialynn/TinyAppTakeTwo#readme"
+}
